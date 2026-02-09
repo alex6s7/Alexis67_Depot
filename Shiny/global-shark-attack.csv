@@ -1,0 +1,1419 @@
+Year;Type;Country;Activity;Sex;Age;Fatal;Time;Species
+1999;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Medium
+1986;Unprovoked;USA;Swimming;F;Child;N;Afternoon;Medium
+2016;Unprovoked;USA;Swimming;F;Child;N;Afternoon;Small
+2001;Unprovoked;USA;Surfing;M;Child;N;Afternoon;Small
+2012;Unprovoked;USA;Swimming;M;Child;N;Evening;Medium
+2013;Unprovoked;USA;Swimming;M;Child;N;Evening;Small
+2015;Unprovoked;USA;Swimming;M;Child;N;Midday;Medium
+2005;Unprovoked;VANUATU;Swimming;F;Child;Y;Afternoon;Medium
+2006;Unprovoked;USA;Swimming;F;Child;N;Afternoon;Small
+1996;Unprovoked;AUSTRALIA;Swimming;M;Child;N;Afternoon;Medium
+1950;Unprovoked;INDONESIA;Swimming;M;Child;Y;Afternoon;Medium
+2004;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Small
+2014;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Small
+1965;Unprovoked;PALAU;Swimming;M;Child;N;Afternoon;Medium
+2008;Unprovoked;USA;Surfing;M;Child;N;Afternoon;Small
+1955;Unprovoked;PAPUA NEW GUINEA;Swimming;M;Child;N;Afternoon;Small
+1958;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Small
+1966;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Small
+2004;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Small
+2012;Unprovoked;USA;Surfing;F;Child;N;Evening;Small
+2001;Unprovoked;USA;Swimming;M;Child;N;Evening;Medium
+2008;Unprovoked;USA;Swimming;F;Child;N;Midday;Small
+1987;Unprovoked;VANUATU;Swimming;M;Child;Y;Midday;Medium
+1966;Unprovoked;PAPUA NEW GUINEA;Swimming;F;Child;Y;Morning;Medium
+2005;Unprovoked;USA;Swimming;M;Child;N;Morning;Medium
+2002;Unprovoked;USA;Surfing;F;Child;N;Afternoon;Small
+1998;Unprovoked;USA;Swimming;M;Child;Y;Afternoon;Medium
+1947;Unprovoked;AUSTRALIA;Fishing;M;Child;N;Afternoon;Small
+2010;Provoked;SPAIN;Swimming;M;Child;N;Evening;Small
+1994;Provoked;USA;Swimming;F;Child;N;Midday;Medium
+1966;Unprovoked;NEW BRITAIN;Diving;F;Child;Y;Midday;Medium
+2013;Unprovoked;USA;Fishing;M;Child;N;Midday;Small
+2015;Unprovoked;FRENCH POLYNESIA;Fishing;M;Child;N;Morning;Small
+2013;Unprovoked;USA;Surfing;M;Child;N;Morning;Small
+2011;Unprovoked;USA;Surfing;F;Child;N;Afternoon;Small
+2013;Unprovoked;USA;Surfing;F;Child;N;Afternoon;Small
+1991;Unprovoked;USA;Swimming;F;Child;N;Afternoon;Small
+1995;Unprovoked;USA;Swimming;F;Child;N;Afternoon;Small
+2015;Unprovoked;USA;Swimming;F;Child;N;Afternoon;Small
+2013;Unprovoked;USA;Surfing;M;Child;N;Afternoon;Medium
+1938;Unprovoked;IRAQ;Swimming;M;Child;N;Afternoon;Medium
+1956;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Medium
+2001;Unprovoked;USA;Swimming;M;Child;Y;Afternoon;Medium
+2014;Unprovoked;USA;Surfing;M;Child;N;Afternoon;Small
+2011;Unprovoked;AUSTRALIA;Swimming;M;Child;N;Afternoon;Small
+1999;Unprovoked;USA;Swimming;M;Child;N;Afternoon;Small
+2018;Unprovoked;AUSTRALIA;Swimming;M;Child;N;Afternoon;Small
+1962;Unprovoked;PAPUA NEW GUINEA;Swimming;M;Child;Y;Evening;Medium
+2010;Unprovoked;USA;Swimming;F;Child;N;Morning;Small
+2003;Provoked;USA;Swimming;M;Child;N;Morning;Small
+1992;Unprovoked;USA;Surfing;M;Child;N;Morning;Medium
+2006;Unprovoked;NEW ZEALAND;Surfing;M;Child;N;Morning;Medium
+2009;Unprovoked;USA;Swimming;M;Child;N;Morning;Small
+2010;Unprovoked;USA;Swimming;M;Child;N;Morning;Small
+1973;Unprovoked;BAHAMAS;Diving;M;Child;N;Afternoon;Medium
+2016;Unprovoked;AUSTRALIA;Swimming;M;Child;N;Afternoon;Small
+2004;Unprovoked;USA;Fishing;M;Child;N;Evening;Medium
+2007;Unprovoked;USA;Surfing;M;Child;N;Evening;Small
+2012;Unprovoked;AUSTRALIA;Surfing;M;Child;N;Midday;Medium
+2003;Unprovoked;USA;Swimming;M;Child;N;Midday;Small
+1962;Unprovoked;USA;Navigating;M;Child;N;Morning;Small
+2015;Unprovoked;USA;Swimming;M;Child;N;Morning;Small
+1993;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Medium
+2015;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Medium
+2003;Unprovoked;USA;Surfing;F;Teenager;N;Afternoon;Small
+2000;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1880;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Medium
+1975;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Medium
+1995;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1997;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1958;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+2013;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+2015;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+1989;Unprovoked;USA;Surfing;M;Teenager;N;Evening;Small
+2007;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Medium
+2001;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+2015;Unprovoked;USA;Swimming;M;Teenager;N;Midday;Small
+2016;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Midday;Small
+2007;Unprovoked;USA;Swimming;F;Teenager;N;Morning;Big
+1994;Unprovoked;USA;Swimming;F;Teenager;N;Morning;Small
+1997;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Medium
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Medium
+2001;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+1987;Unprovoked;USA;Swimming;M;Teenager;N;Morning;Small
+2009;Unprovoked;AUSTRALIA;Surfing;F;Teenager;N;Afternoon;Big
+2017;Unprovoked;SOUTH AFRICA;Surfing;F;Teenager;N;Afternoon;Medium
+2014;Unprovoked;USA;Surfing;F;Teenager;N;Afternoon;Small
+1985;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+2000;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1984;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+2004;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+2010;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+2007;Unprovoked;AUSTRALIA;Swimming;F;Teenager;N;Afternoon;Small
+1936;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Big
+1985;Unprovoked;ITALY;Diving;M;Teenager;N;Afternoon;Medium
+1966;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Afternoon;Medium
+1960;Unprovoked;AUSTRALIA;Diving;M;Teenager;Y;Afternoon;Medium
+1955;Unprovoked;AUSTRALIA;Fishing;M;Teenager;Y;Afternoon;Medium
+1962;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Afternoon;Medium
+1949;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Medium
+1969;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1998;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+2016;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+2017;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+1934;Unprovoked;AUSTRALIA;Swimming;F;Teenager;N;Evening;Small
+1963;Provoked;SOUTH AFRICA;Fishing;M;Teenager;N;Evening;Small
+1961;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Evening;Medium
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Evening;Small
+1980;Unprovoked;MEXICO;Surfing;F;Teenager;N;Midday;Medium
+1966;Unprovoked;NEW BRITAIN;Swimming;F;Teenager;Y;Midday;Medium
+2013;Unprovoked;USA;Surfing;F;Teenager;N;Midday;Small
+2015;Unprovoked;USA;Surfing;F;Teenager;N;Midday;Small
+2003;Unprovoked;USA;Surfing;F;Teenager;N;Morning;Medium
+1966;Unprovoked;PAPUA NEW GUINEA;Swimming;F;Teenager;Y;Morning;Medium
+2014;Unprovoked;AUSTRALIA;Surfing;F;Teenager;N;Morning;Small
+2008;Unprovoked;USA;Swimming;M;Teenager;N;Morning;Medium
+2015;Unprovoked;REUNION;Surfing;M;Teenager;Y;Morning;Medium
+1919;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Morning;Medium
+1940;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Morning;Medium
+1962;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Morning;Small
+2015;Unprovoked;USA;Swimming;M;Teenager;N;Morning;Small
+1998;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1936;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Big
+1959;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Afternoon;Medium
+2008;Unprovoked;BRAZIL;Swimming;M;Teenager;N;Afternoon;Medium
+1950;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;Y;Afternoon;Medium
+1929;Unprovoked;AUSTRALIA;Surfing;M;Teenager;Y;Afternoon;Medium
+1961;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Afternoon;Medium
+2007;Unprovoked;USA;Diving;M;Teenager;N;Afternoon;Small
+2012;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2015;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1958;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Small
+2007;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Small
+1995;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Afternoon;Small
+2010;Provoked;NEW ZEALAND;Surfing;F;Teenager;N;Evening;Small
+2005;Unprovoked;USA;Navigating;F;Teenager;N;Midday;Small
+1957;Unprovoked;SOUTH AFRICA;Surfing;F;Teenager;N;Midday;Small
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Medium
+2007;Unprovoked;USA;Swimming;M;Teenager;N;Midday;Small
+2013;Unprovoked;USA;Swimming;M;Teenager;N;Midday;Small
+1983;Unprovoked;USA;Swimming;F;Teenager;N;Morning;Medium
+2000;Unprovoked;USA;Surfing;F;Teenager;N;Morning;Small
+2006;Unprovoked;USA;Surfing;F;Teenager;N;Morning;Small
+1975;Unprovoked;USA;Swimming;F;Teenager;N;Morning;Small
+2005;Unprovoked;USA;Swimming;F;Teenager;Y;Morning;Small
+1999;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;Y;Morning;Big
+1995;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+1998;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+2015;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+1984;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Morning;Small
+2017;Unprovoked;AUSTRALIA;Fishing;F;Teenager;N;Afternoon;Medium
+1995;Unprovoked;AUSTRALIA;Swimming;F;Teenager;N;Afternoon;Medium
+2012;Unprovoked;USA;Surfing;F;Teenager;N;Afternoon;Small
+2006;Unprovoked;USA;Surfing;F;Teenager;N;Afternoon;Small
+2002;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1966;Provoked;USA;Fishing;M;Teenager;N;Afternoon;Medium
+2006;Provoked;USA;Fishing;M;Teenager;N;Afternoon;Small
+1961;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Afternoon;Big
+2004;Unprovoked;REUNION;Surfing;M;Teenager;N;Afternoon;Medium
+1994;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Medium
+2006;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Medium
+1981;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+1963;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+2007;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+2006;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Medium
+2010;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Medium
+1959;Unprovoked;JAPAN;Swimming;M;Teenager;Y;Afternoon;Medium
+1967;Unprovoked;USA;Fishing;M;Teenager;N;Afternoon;Small
+1976;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1984;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1994;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1966;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Small
+2006;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Small
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2018;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+2008;Unprovoked;USA;Surfing;F;Teenager;N;Evening;Small
+2008;Provoked;SOUTH AFRICA;Fishing;M;Teenager;N;Evening;Medium
+1960;Provoked;USA;Fishing;M;Teenager;N;Evening;Small
+1998;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Evening;Medium
+2004;Unprovoked;NEW ZEALAND;Surfing;M;Teenager;N;Evening;Medium
+2006;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Evening;Small
+1985;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Evening;Small
+1945;Unprovoked;IRAQ;Swimming;M;Teenager;N;Midday;Medium
+1958;Unprovoked;USA;Surfing;M;Teenager;Y;Midday;Medium
+1963;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Midday;Medium
+1934;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Midday;Medium
+2015;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+2012;Unprovoked;USA;Surfing;F;Teenager;N;Morning;Big
+2007;Unprovoked;USA;Surfing;F;Teenager;N;Morning;Medium
+1942;Unprovoked;AUSTRALIA;Surfing;F;Teenager;Y;Morning;Medium
+1988;Unprovoked;SOUTH AFRICA;Surfing;F;Teenager;N;Morning;Small
+2006;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Big
+2009;Unprovoked;CUBA;Fishing;M;Teenager;N;Morning;Medium
+2009;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Medium
+1953;Unprovoked;USA;Fishing;M;Teenager;Y;Morning;Medium
+2011;Unprovoked;NEW CALEDONIA;Surfing;M;Teenager;Y;Morning;Medium
+1927;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Morning;Medium
+2015;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Morning;Small
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+2014;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+1928;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Morning;Small
+2007;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Morning;Small
+1956;Unprovoked;AUSTRALIA;Diving;M;Teenager;Y;Morning;Small
+1971;Unprovoked;SOUTH AFRICA;Swimming;F;Teenager;N;Afternoon;Medium
+1987;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1963;Provoked;USA;Fishing;M;Teenager;N;Afternoon;Small
+1998;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Big
+2004;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Big
+1925;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Afternoon;Big
+1936;Unprovoked;USA;Swimming;M;Teenager;Y;Afternoon;Big
+1965;Unprovoked;USA;Diving;M;Teenager;N;Afternoon;Medium
+2014;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+1982;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Medium
+1989;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Medium
+1969;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+1960;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Afternoon;Medium
+2015;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Medium
+1962;Unprovoked;AUSTRALIA;Fishing;M;Teenager;Y;Afternoon;Medium
+1992;Unprovoked;REUNION;Surfing;M;Teenager;Y;Afternoon;Medium
+1924;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Medium
+2002;Unprovoked;USA;Navigating;M;Teenager;N;Afternoon;Small
+2013;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2010;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2008;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+1999;Unprovoked;USA;Surfing;M;Teenager;N;Evening;Medium
+1995;Unprovoked;USA;Surfing;M;Teenager;N;Evening;Small
+2004;Unprovoked;USA;Swimming;M;Teenager;N;Evening;Small
+1960;Unprovoked;USA;Swimming;F;Teenager;N;Midday;Big
+1998;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Midday;Medium
+1983;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Midday;Medium
+1984;Unprovoked;AUSTRALIA;Navigating;M;Teenager;Y;Midday;Medium
+1986;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+1987;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+2007;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+2012;Unprovoked;USA;Swimming;M;Teenager;N;Midday;Small
+2012;Unprovoked;USA;Swimming;F;Teenager;N;Morning;Small
+1936;Unprovoked;AUSTRALIA;Diving;M;Teenager;N;Morning;Medium
+2005;Unprovoked;USA;Fishing;M;Teenager;N;Morning;Medium
+1984;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Medium
+1971;Unprovoked;NEW ZEALAND;Surfing;M;Teenager;N;Morning;Medium
+1961;Unprovoked;USA;Swimming;M;Teenager;N;Morning;Medium
+2003;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Morning;Medium
+2008;Unprovoked;AUSTRALIA;Surfing;M;Teenager;Y;Morning;Medium
+2002;Unprovoked;SOUTH AFRICA;Fishing;M;Teenager;N;Morning;Small
+1966;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Morning;Small
+1998;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Morning;Small
+2007;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+2013;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+1975;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Morning;Small
+2005;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+1995;Unprovoked;USA;Swimming;M;Teenager;N;Night;Small
+2017;Unprovoked;AUSTRALIA;Surfing;F;Teenager;Y;Afternoon;Big
+2004;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Medium
+2009;Unprovoked;USA;Surfing;F;Teenager;N;Afternoon;Small
+2017;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1977;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Big
+1968;Unprovoked;NEW ZEALAND;Surfing;M;Teenager;N;Afternoon;Big
+1948;Unprovoked;GREECE;Swimming;M;Teenager;Y;Afternoon;Big
+2013;Unprovoked;USA;Fishing;M;Teenager;N;Afternoon;Medium
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+1989;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Medium
+2003;Unprovoked;BRAZIL;Surfing;M;Teenager;N;Afternoon;Medium
+1992;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Medium
+1989;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Medium
+1996;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Medium
+1958;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Medium
+2004;Unprovoked;BRAZIL;Swimming;M;Teenager;N;Afternoon;Medium
+1952;Unprovoked;USA;Surfing;M;Teenager;Y;Afternoon;Medium
+1940;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Afternoon;Medium
+1934;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Medium
+1944;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Afternoon;Medium
+2011;Unprovoked;AUSTRALIA;Fishing;M;Teenager;N;Afternoon;Small
+1997;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2001;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2012;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1974;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Small
+1988;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Small
+1927;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Small
+2000;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2010;Unprovoked;VIETNAM;Swimming;M;Teenager;N;Afternoon;Small
+1926;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Afternoon;Small
+1961;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Afternoon;Small
+1960;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Evening;Medium
+2009;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Evening;Medium
+2004;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Evening;Medium
+1982;Unprovoked;USA;Swimming;M;Teenager;N;Evening;Small
+2000;Unprovoked;AUSTRALIA;Surfing;M;Teenager;Y;Midday;Big
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Medium
+1978;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Midday;Medium
+1957;Provoked;USA;Surfing;M;Teenager;N;Morning;Medium
+1974;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Big
+2014;Unprovoked;AUSTRALIA;Fishing;M;Teenager;Y;Morning;Big
+1965;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Medium
+2000;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Medium
+1989;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Medium
+2016;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Medium
+2014;Unprovoked;AUSTRALIA;Fishing;M;Teenager;Y;Morning;Medium
+1928;Unprovoked;PANAMA;Swimming;M;Teenager;Y;Morning;Medium
+1927;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Morning;Medium
+1983;Unprovoked;SOUTH AFRICA;Fishing;M;Teenager;N;Morning;Small
+1959;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Small
+1959;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Small
+1976;Unprovoked;USA;Diving;M;Teenager;N;Night;Medium
+1963;Provoked;PAPUA NEW GUINEA;Fishing;F;Teenager;N;Afternoon;Medium
+2005;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Medium
+1961;Unprovoked;AUSTRALIA;Surfing;F;Teenager;Y;Afternoon;Medium
+2012;Unprovoked;USA;Swimming;F;Teenager;N;Afternoon;Small
+1938;Provoked;AUSTRALIA;Fishing;M;Teenager;N;Afternoon;Small
+1998;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Afternoon;Big
+2004;Unprovoked;AUSTRALIA;Diving;M;Teenager;Y;Afternoon;Big
+1930;Unprovoked;AUSTRALIA;Diving;M;Teenager;Y;Afternoon;Big
+1922;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Big
+1963;Unprovoked;AUSTRALIA;Fishing;M;Teenager;N;Afternoon;Medium
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+2013;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Medium
+2010;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Medium
+2015;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Medium
+1959;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Afternoon;Medium
+1959;Unprovoked;USA;Swimming;M;Teenager;Y;Afternoon;Medium
+1940;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Afternoon;Medium
+1937;Unprovoked;AUSTRALIA;Swimming;M;Teenager;Y;Afternoon;Medium
+1965;Unprovoked;USA;Diving;M;Teenager;N;Afternoon;Small
+1995;Unprovoked;TONGA;Fishing;M;Teenager;N;Afternoon;Small
+1971;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1995;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+1997;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2001;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2002;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2003;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2009;Unprovoked;USA;Surfing;M;Teenager;N;Afternoon;Small
+2005;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Afternoon;Small
+1947;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Afternoon;Small
+1961;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Afternoon;Small
+1931;Unprovoked;AUSTRALIA;Swimming;M;Teenager;N;Afternoon;Small
+1975;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+1962;Unprovoked;NEW ZEALAND;Swimming;M;Teenager;N;Afternoon;Small
+1966;Unprovoked;USA;Swimming;M;Teenager;N;Afternoon;Small
+1985;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Evening;Medium
+2017;Unprovoked;USA;Surfing;M;Teenager;N;Evening;Small
+2010;Unprovoked;USA;Surfing;F;Teenager;N;Midday;Small
+1984;Unprovoked;USA;Swimming;F;Teenager;N;Midday;Small
+1954;Unprovoked;ARGENTINA;Swimming;M;Teenager;N;Midday;Big
+1946;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Midday;Medium
+1942;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;Y;Midday;Medium
+2005;Unprovoked;USA;Surfing;M;Teenager;N;Midday;Small
+2006;Unprovoked;USA;Swimming;M;Teenager;N;Midday;Small
+1946;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Midday;Small
+1966;Provoked;USA;Fishing;M;Teenager;N;Morning;Small
+1963;Provoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Small
+1968;Unprovoked;COLUMBIA;Fishing;M;Teenager;N;Morning;Medium
+2009;Unprovoked;AUSTRALIA;Fishing;M;Teenager;N;Morning;Medium
+1977;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Morning;Medium
+1972;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Medium
+1922;Unprovoked;SOUTH AFRICA;Swimming;M;Teenager;N;Morning;Medium
+1992;Unprovoked;USA;Surfing;M;Teenager;Y;Morning;Medium
+1928;Unprovoked;SOUTH AFRICA;Surfing;M;Teenager;N;Morning;Small
+2008;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+2015;Unprovoked;USA;Surfing;M;Teenager;N;Morning;Small
+2018;Unprovoked;AUSTRALIA;Surfing;M;Teenager;N;Morning;Small
+2007;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Medium
+2000;Unprovoked;USA;Surfing;F;Young adult;N;Afternoon;Small
+2004;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Small
+1962;Provoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+1929;Provoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Small
+2018;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Big
+2015;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Big
+2003;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Afternoon;Big
+1956;Unprovoked;SENEGAL;Diving;M;Young adult;N;Afternoon;Medium
+1975;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1981;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1996;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1962;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+1976;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1959;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+2007;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+2006;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1964;Unprovoked;MEXICO;Swimming;M;Young adult;N;Afternoon;Medium
+2002;Unprovoked;BRAZIL;Swimming;M;Young adult;N;Afternoon;Medium
+1976;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Medium
+1991;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Afternoon;Medium
+2013;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Afternoon;Medium
+1967;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1981;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2016;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2014;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1964;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+1992;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+1992;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Evening;Medium
+2010;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+1995;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+1955;Unprovoked;USA;Fishing;M;Young adult;N;Midday;Big
+1961;Unprovoked;CROATIA;Swimming;M;Young adult;Y;Midday;Big
+1990;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Medium
+1956;Unprovoked;PAPUA NEW GUINEA;Fishing;M;Young adult;Y;Midday;Medium
+1979;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Midday;Small
+1996;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+2011;Unprovoked;USA;Swimming;M;Young adult;N;Midday;Small
+1993;Unprovoked;USA;Navigating;F;Young adult;N;Morning;Medium
+2007;Unprovoked;EGYPT;Swimming;F;Young adult;N;Morning;Medium
+1980;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Big
+1961;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Big
+1959;Unprovoked;USA;Fishing;M;Young adult;N;Morning;Medium
+1976;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1997;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1959;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Medium
+2013;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+1981;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Medium
+1894;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Morning;Medium
+2010;Unprovoked;USA;Surfing;M;Young adult;Y;Morning;Medium
+1922;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Morning;Medium
+1964;Unprovoked;NEW ZEALAND;Swimming;M;Young adult;Y;Morning;Medium
+2015;Unprovoked;FRENCH POLYNESIA;Fishing;M;Young adult;N;Morning;Small
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1997;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2011;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2011;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1964;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Small
+1922;Unprovoked;JAMAICA;Swimming;M;Young adult;Y;Morning;Small
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Night;Small
+1974;Unprovoked;ISRAEL;Swimming;F;Young adult;N;Afternoon;Medium
+2013;Unprovoked;USA;Diving;F;Young adult;Y;Afternoon;Medium
+1963;Unprovoked;SOUTH AFRICA;Surfing;F;Young adult;N;Afternoon;Small
+1958;Provoked;USA;Diving;M;Young adult;N;Afternoon;Small
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+2014;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Big
+1987;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+2015;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+2012;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+2004;Unprovoked;REUNION;Surfing;M;Young adult;N;Afternoon;Medium
+2005;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Medium
+1943;Unprovoked;PANAMA;Diving;M;Young adult;Y;Afternoon;Medium
+1949;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1988;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Small
+2004;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Small
+1982;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2002;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1982;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+2001;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Small
+2002;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Small
+1964;Unprovoked;TAIWAN;Swimming;M;Young adult;N;Afternoon;Small
+1982;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Small
+2002;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Evening;Medium
+2018;Unprovoked;BRAZIL;Surfing;M;Young adult;N;Evening;Small
+2010;Unprovoked;AUSTRALIA;Diving;F;Young adult;N;Midday;Big
+2001;Unprovoked;AUSTRALIA;Diving;F;Young adult;N;Midday;Medium
+2010;Provoked;USA;Fishing;M;Young adult;N;Midday;Medium
+1991;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Midday;Big
+2012;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Midday;Big
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Medium
+1939;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Midday;Medium
+1975;Unprovoked;USA;Navigating;M;Young adult;N;Midday;Small
+2003;Unprovoked;USA;Swimming;M;Young adult;N;Midday;Small
+1963;Unprovoked;NEW ZEALAND;Swimming;M;Young adult;N;Midday;Small
+2005;Unprovoked;USA;Surfing;F;Young adult;N;Morning;Big
+2015;Provoked;USA;Fishing;M;Young adult;N;Morning;Small
+1985;Provoked;SOUTH AFRICA;Fishing;M;Young adult;N;Morning;Small
+2016;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Morning;Small
+2008;Provoked;AUSTRALIA;Swimming;M;Young adult;N;Morning;Small
+1961;Unprovoked;USA;Diving;M;Young adult;N;Morning;Big
+1977;Unprovoked;USA;Diving;M;Young adult;N;Morning;Big
+1998;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Morning;Big
+1926;Unprovoked;ITALY;Swimming;M;Young adult;Y;Morning;Big
+1976;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+1979;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2005;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+1947;Unprovoked;USA;Swimming;M;Young adult;Y;Morning;Medium
+2004;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1995;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Small
+2003;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Small
+1959;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Night;Small
+2007;Unprovoked;USA;Swimming;M;Young adult;N;Night;Small
+1990;Unprovoked;SOUTH AFRICA;Diving;F;Young adult;Y;Afternoon;Big
+2006;Unprovoked;AUSTRALIA;Swimming;F;Young adult;Y;Afternoon;Medium
+2007;Unprovoked;USA;Surfing;F;Young adult;N;Afternoon;Small
+2001;Provoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1988;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+2004;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Big
+1961;Unprovoked;ITALY;Fishing;M;Young adult;N;Afternoon;Medium
+1996;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+1961;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Afternoon;Medium
+2013;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+2016;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1999;Unprovoked;BRAZIL;Surfing;M;Young adult;N;Afternoon;Medium
+1950;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+2006;Unprovoked;FIJI;Surfing;M;Young adult;N;Afternoon;Medium
+1971;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+2013;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Medium
+1986;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Afternoon;Medium
+1912;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1951;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1958;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+2011;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Small
+1988;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2002;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2006;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2015;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2015;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1974;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Small
+2014;Unprovoked;FRENCH POLYNESIA;Surfing;M;Young adult;N;Afternoon;Small
+1967;Unprovoked;NEW ZEALAND;Swimming;M;Young adult;Y;Evening;Medium
+1983;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+1964;Unprovoked;USA;Fishing;M;Young adult;N;Midday;Big
+1987;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Midday;Big
+2011;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Midday;Big
+1986;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Midday;Medium
+2011;Unprovoked;NEW CALEDONIA;Fishing;M;Young adult;N;Midday;Small
+1947;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Midday;Small
+1983;Unprovoked;AUSTRALIA;Swimming;F;Young adult;Y;Morning;Big
+1963;Unprovoked;FIJI;Fishing;F;Young adult;N;Morning;Small
+2018;Provoked;ENGLAND;Fishing;M;Young adult;N;Morning;Small
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Big
+2015;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1989;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+2003;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;Y;Morning;Medium
+1922;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Morning;Medium
+1993;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Morning;Small
+1960;Unprovoked;BERMUDA;Navigating;M;Young adult;N;Morning;Small
+1991;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1996;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1999;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1959;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Small
+1892;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Night;Medium
+2014;Unprovoked;USA;Navigating;F;Young adult;N;Afternoon;Medium
+2014;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Medium
+1980;Unprovoked;USA;Surfing;F;Young adult;N;Afternoon;Small
+2009;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Small
+2016;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Small
+1990;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+2005;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;Y;Afternoon;Big
+1959;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Big
+2005;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+2002;Unprovoked;BRAZIL;Surfing;M;Young adult;N;Afternoon;Medium
+1998;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1934;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Afternoon;Medium
+1935;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Afternoon;Medium
+1999;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Afternoon;Medium
+1980;Unprovoked;REUNION;Fishing;M;Young adult;N;Afternoon;Small
+1996;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2015;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2003;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Small
+2010;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Small
+1967;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Small
+1995;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+2005;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Small
+1957;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Afternoon;Small
+2015;Unprovoked;REUNION;Swimming;F;Young adult;Y;Evening;Medium
+1998;Unprovoked;BRAZIL;Surfing;M;Young adult;Y;Evening;Big
+2006;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Medium
+1974;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Evening;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+2006;Unprovoked;USA;Surfing;F;Young adult;N;Midday;Small
+1996;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Big
+1990;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Midday;Big
+2011;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;N;Midday;Medium
+1965;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Midday;Medium
+1947;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Midday;Medium
+1994;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Midday;Medium
+2003;Unprovoked;USA;Swimming;M;Young adult;N;Midday;Small
+1983;Unprovoked;USA;Diving;F;Young adult;N;Morning;Small
+2015;Provoked;USA;Fishing;M;Young adult;N;Morning;Medium
+1985;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+1993;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2004;Unprovoked;BRAZIL;Surfing;M;Young adult;N;Morning;Medium
+1961;Unprovoked;MID ATLANTIC OCEAN;Swimming;M;Young adult;N;Morning;Medium
+1958;Unprovoked;AMERICAN SAMOA;Fishing;M;Young adult;Y;Morning;Medium
+1961;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Morning;Medium
+1980;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Small
+1972;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1986;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1991;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1994;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2017;Unprovoked;CUBA;Swimming;M;Young adult;Y;Night;Medium
+2001;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Big
+1984;Unprovoked;USA;Surfing;F;Young adult;N;Afternoon;Small
+2009;Provoked;SCOTLAND;Diving;M;Young adult;N;Afternoon;Small
+2012;Provoked;USA;Fishing;M;Young adult;N;Afternoon;Small
+1951;Provoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Small
+1975;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Big
+2005;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Afternoon;Big
+1990;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+2015;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1991;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Medium
+1995;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Medium
+1991;Unprovoked;USA;Swimming;M;Young adult;N;Afternoon;Medium
+1930;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Medium
+1978;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;Y;Afternoon;Medium
+1957;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Medium
+1997;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2000;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2014;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1988;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+2016;Provoked;USA;Fishing;F;Young adult;N;Midday;Small
+1963;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Midday;Big
+2002;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Midday;Big
+2012;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Midday;Medium
+1994;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+2005;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+1998;Unprovoked;MOZAMBIQUE;Surfing;M;Young adult;N;Midday;Small
+1951;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Midday;Small
+2007;Unprovoked;NEW CALEDONIA;Swimming;F;Young adult;Y;Morning;Medium
+1961;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Morning;Medium
+1969;Provoked;USA;Diving;M;Young adult;N;Morning;Small
+1996;Unprovoked;NEW ZEALAND;Diving;M;Young adult;N;Morning;Big
+1967;Unprovoked;AUSTRALIA;Fishing;M;Young adult;Y;Morning;Big
+1999;Unprovoked;MARSHALL ISLANDS;Fishing;M;Young adult;N;Morning;Medium
+2014;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Medium
+2016;Unprovoked;EGYPT;Swimming;M;Young adult;N;Morning;Medium
+2002;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Morning;Medium
+2003;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1932;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Night;Small
+2006;Unprovoked;TONGA;Swimming;F;Young adult;Y;Afternoon;Medium
+2011;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Small
+1967;Provoked;USA;Swimming;M;Young adult;N;Afternoon;Small
+2002;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+2013;Unprovoked;REUNION;Surfing;M;Young adult;N;Afternoon;Medium
+1981;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1972;Unprovoked;MOZAMBIQUE;Surfing;M;Young adult;N;Afternoon;Medium
+1980;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1961;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+1965;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+1951;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Medium
+1942;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Afternoon;Medium
+2008;Unprovoked;MEXICO;Surfing;M;Young adult;Y;Afternoon;Medium
+1994;Unprovoked;REUNION;Surfing;M;Young adult;Y;Afternoon;Medium
+2007;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Medium
+1916;Unprovoked;USA;Swimming;M;Young adult;Y;Afternoon;Medium
+1962;Unprovoked;BRITISH WEST INDIES;Fishing;M;Young adult;N;Afternoon;Small
+1963;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Afternoon;Small
+2006;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1962;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1963;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+2010;Unprovoked;EGYPT;Swimming;M;Young adult;N;Afternoon;Small
+1981;Unprovoked;USA;Surfing;M;Young adult;Y;Evening;Big
+1961;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Evening;Medium
+2011;Unprovoked;AUSTRALIA;Surfing;F;Young adult;N;Midday;Medium
+1962;Unprovoked;PAPUA NEW GUINEA;Fishing;M;Young adult;N;Midday;Big
+1962;Unprovoked;USA;Fishing;M;Young adult;N;Midday;Medium
+1998;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Midday;Medium
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+2004;Unprovoked;BRAZIL;Swimming;M;Young adult;N;Midday;Small
+1989;Unprovoked;USA;Navigating;F;Young adult;Y;Morning;Big
+2006;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Morning;Big
+2012;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Morning;Big
+2009;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Morning;Medium
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1981;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+1974;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1987;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+1932;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Morning;Medium
+1968;Unprovoked;NEW ZEALAND;Fishing;M;Young adult;Y;Morning;Medium
+1960;Unprovoked;BERMUDA;Navigating;M;Young adult;N;Morning;Small
+2016;Unprovoked;INDONESIA;Surfing;M;Young adult;N;Morning;Small
+1990;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1983;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Night;Big
+1996;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Night;Medium
+1970;Provoked;SOUTH AFRICA;Diving;M;Young adult;N;Afternoon;Medium
+1979;Provoked;SOUTH AFRICA;Fishing;M;Young adult;N;Afternoon;Medium
+1991;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Big
+1977;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Afternoon;Big
+2009;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Afternoon;Big
+1957;Unprovoked;USA;Swimming;M;Young adult;Y;Afternoon;Big
+1960;Unprovoked;BERMUDA;Diving;M;Young adult;N;Afternoon;Medium
+1964;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Afternoon;Medium
+2017;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+1976;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1995;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1980;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+2017;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+1984;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1972;Unprovoked;MOZAMBIQUE;Swimming;M;Young adult;N;Afternoon;Medium
+1996;Unprovoked;REUNION;Surfing;M;Young adult;Y;Afternoon;Medium
+2009;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Medium
+2012;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Medium
+1960;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Medium
+1955;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1937;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1963;Unprovoked;USA;Swimming;M;Young adult;Y;Afternoon;Medium
+1953;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Afternoon;Small
+1990;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1999;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2013;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2016;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1965;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+1959;Unprovoked;USA;Fishing;M;Young adult;N;Evening;Medium
+2006;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Evening;Medium
+1980;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Evening;Medium
+2011;Unprovoked;RUSSIA;Swimming;M;Young adult;N;Evening;Medium
+2015;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+1971;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Evening;Small
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Big
+1997;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Midday;Big
+2002;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;N;Midday;Medium
+2000;Unprovoked;USA;Swimming;M;Young adult;N;Midday;Small
+2000;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Morning;Big
+1968;Unprovoked;USA;Diving;M;Young adult;N;Morning;Medium
+2009;Unprovoked;AUSTRALIA;Navigating;M;Young adult;N;Morning;Medium
+1988;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2013;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2015;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2018;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2013;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1940;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Morning;Medium
+2011;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1964;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Small
+2006;Provoked;SOUTH AFRICA;Fishing;M;Young adult;N;Night;Small
+2005;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Night;Small
+1952;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Night;Medium
+1950;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Night;Small
+1967;Provoked;USA;Fishing;M;Young adult;N;Afternoon;Small
+1993;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+1994;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Big
+1998;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Afternoon;Big
+2005;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Afternoon;Big
+1981;Unprovoked;USA;Swimming;M;Young adult;Y;Afternoon;Big
+2012;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Afternoon;Medium
+2006;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+2007;Unprovoked;NEW CALEDONIA;Surfing;M;Young adult;N;Afternoon;Medium
+2000;Unprovoked;AUSTRALIA;Swimming;M;Young adult;N;Afternoon;Medium
+1956;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1986;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Afternoon;Small
+2001;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2013;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Small
+1986;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+1964;Unprovoked;NEW ZEALAND;Fishing;M;Young adult;N;Evening;Medium
+1968;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Evening;Medium
+2002;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Evening;Medium
+1954;Unprovoked;PAPUA NEW GUINEA;Swimming;M;Young adult;N;Evening;Medium
+1998;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+1971;Provoked;AUSTRALIA;Diving;M;Young adult;N;Midday;Medium
+1990;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Midday;Big
+2005;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Midday;Medium
+2001;Unprovoked;MEXICO;Surfing;M;Young adult;N;Midday;Small
+1993;Unprovoked;USA;Swimming;F;Young adult;N;Morning;Medium
+2016;Provoked;FRENCH POLYNESIA;Fishing;M;Young adult;N;Morning;Small
+1982;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Big
+2004;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Big
+2015;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Big
+1963;Unprovoked;FEDERATED STATES OF MICRONESIA;Fishing;M;Young adult;N;Morning;Medium
+1973;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Morning;Medium
+2005;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1982;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2008;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2009;Provoked;GUAM;Fishing;M;Young adult;N;Afternoon;Small
+2015;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+1978;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Afternoon;Medium
+2000;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+2000;Unprovoked;REUNION;Surfing;M;Young adult;N;Afternoon;Medium
+1984;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1993;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Afternoon;Medium
+2000;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2002;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2009;Unprovoked;MOZAMBIQUE;Swimming;M;Young adult;N;Afternoon;Small
+1977;Provoked;USA;Fishing;M;Young adult;N;Evening;Medium
+1989;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Evening;Medium
+1983;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Evening;Small
+1961;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Evening;Small
+1981;Unprovoked;SOUTH KOREA;Fishing;F;Young adult;Y;Midday;Big
+1975;Unprovoked;USA;Diving;M;Young adult;N;Midday;Big
+1935;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Midday;Medium
+1963;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;N;Midday;Small
+1968;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Morning;Medium
+1950;Provoked;EL SALVADOR;Fishing;M;Young adult;N;Morning;Small
+1961;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Morning;Small
+2009;Unprovoked;AUSTRALIA;Navigating;M;Young adult;N;Morning;Medium
+1986;Unprovoked;USA;Diving;M;Young adult;N;Morning;Big
+2008;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Big
+1997;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Morning;Medium
+1988;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1979;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1981;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Medium
+1982;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;Y;Morning;Medium
+1981;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Small
+1987;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1996;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2007;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1942;Unprovoked;AUSTRALIA;Swimming;F;Young adult;Y;Afternoon;Medium
+2015;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Small
+1982;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Big
+2001;Unprovoked;USA;Swimming;M;Young adult;Y;Afternoon;Big
+1989;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;N;Afternoon;Medium
+1963;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+2014;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1993;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1992;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Afternoon;Medium
+2011;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Small
+1998;Unprovoked;BAHAMAS;Fishing;M;Young adult;N;Afternoon;Small
+1999;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2004;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1964;Unprovoked;PAPUA NEW GUINEA;Navigating;M;Young adult;N;Evening;Medium
+2012;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Evening;Medium
+2014;Unprovoked;NEW ZEALAND;Surfing;M;Young adult;N;Evening;Medium
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Evening;Small
+1964;Unprovoked;USA;Fishing;M;Young adult;N;Midday;Medium
+1957;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Midday;Medium
+2012;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Medium
+2013;Unprovoked;USA;Swimming;M;Young adult;N;Midday;Medium
+2002;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Small
+2011;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;Y;Midday;Small
+2006;Unprovoked;USA;Surfing;F;Young adult;N;Morning;Medium
+1958;Unprovoked;SOUTH AFRICA;Surfing;F;Young adult;Y;Morning;Medium
+1984;Unprovoked;USA;Diving;M;Young adult;Y;Morning;Big
+1962;Unprovoked;ITALY;Fishing;M;Young adult;Y;Morning;Big
+1965;Unprovoked;USA;Fishing;M;Young adult;N;Morning;Medium
+1963;Unprovoked;FIJI;Fishing;M;Young adult;N;Morning;Medium
+2013;Unprovoked;AUSTRALIA;Fishing;M;Young adult;N;Morning;Medium
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2017;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+1955;Unprovoked;AMERICAN SAMOA;Swimming;M;Young adult;Y;Morning;Medium
+1994;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+1983;Unprovoked;AUSTRALIA;Navigating;M;Young adult;N;Night;Big
+2015;Provoked;USA;Fishing;M;Young adult;N;Afternoon;Medium
+2010;Provoked;USA;Swimming;M;Young adult;N;Afternoon;Small
+1974;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Big
+1980;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+1993;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+2010;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Big
+1995;Unprovoked;AUSTRALIA;Diving;M;Young adult;Y;Afternoon;Big
+2016;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Afternoon;Big
+1901;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Big
+1989;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;N;Afternoon;Medium
+1986;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Afternoon;Medium
+2012;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Afternoon;Medium
+1958;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Afternoon;Medium
+1995;Unprovoked;HONG KONG;Swimming;M;Young adult;Y;Afternoon;Medium
+1958;Unprovoked;TAIWAN;Diving;M;Young adult;N;Afternoon;Small
+2001;Unprovoked;USA;Swimming;F;Young adult;N;Midday;Small
+1985;Unprovoked;USA;Diving;M;Young adult;N;Midday;Big
+1997;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Big
+1989;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;Y;Midday;Big
+2015;Unprovoked;SOUTH AFRICA;Diving;M;Young adult;N;Midday;Medium
+2006;Unprovoked;USA;Swimming;M;Young adult;N;Midday;Medium
+2013;Unprovoked;ECUADOR;Surfing;M;Young adult;N;Midday;Small
+1999;Unprovoked;USA;Swimming;F;Young adult;N;Morning;Medium
+1996;Provoked;SOUTH AFRICA;Fishing;M;Young adult;N;Morning;Big
+1980;Provoked;SOUTH AFRICA;Fishing;M;Young adult;N;Morning;Medium
+2008;Unprovoked;AUSTRALIA;Navigating;M;Young adult;N;Morning;Medium
+1976;Unprovoked;USA;Diving;M;Young adult;N;Morning;Big
+1983;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Morning;Big
+1966;Unprovoked;USA;Diving;M;Young adult;N;Morning;Medium
+1962;Unprovoked;USA;Fishing;M;Young adult;N;Morning;Medium
+1999;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+2011;Unprovoked;SOUTH AFRICA;Surfing;M;Young adult;N;Morning;Medium
+2013;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Medium
+2012;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Medium
+1986;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Morning;Medium
+2005;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Medium
+2014;Unprovoked;USA;Surfing;M;Young adult;N;Morning;Small
+2002;Unprovoked;USA;Swimming;M;Young adult;N;Morning;Small
+1999;Unprovoked;USA;Swimming;F;Young adult;N;Afternoon;Small
+1989;Provoked;AUSTRALIA;Fishing;M;Young adult;N;Afternoon;Small
+2012;Unprovoked;USA;Fishing;M;Young adult;N;Afternoon;Big
+1959;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Big
+1971;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Big
+2010;Unprovoked;USA;Diving;M;Young adult;N;Afternoon;Medium
+1954;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Afternoon;Medium
+2007;Unprovoked;NEW CALEDONIA;Fishing;M;Young adult;N;Afternoon;Medium
+1959;Unprovoked;USA;Navigating;M;Young adult;N;Afternoon;Medium
+2011;Unprovoked;PAPUA NEW GUINEA;Surfing;M;Young adult;N;Afternoon;Medium
+2003;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1992;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Medium
+1991;Unprovoked;REUNION;Surfing;M;Young adult;N;Afternoon;Medium
+2012;Unprovoked;AUSTRALIA;Surfing;M;Young adult;N;Afternoon;Medium
+2004;Unprovoked;AUSTRALIA;Surfing;M;Young adult;Y;Afternoon;Medium
+1946;Unprovoked;AUSTRALIA;Swimming;M;Young adult;Y;Afternoon;Medium
+1994;Unprovoked;BAHAMAS;Fishing;M;Young adult;N;Afternoon;Small
+1988;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2003;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2008;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+2013;Unprovoked;USA;Surfing;M;Young adult;N;Afternoon;Small
+1981;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;N;Afternoon;Small
+2011;Unprovoked;SEYCHELLES;Swimming;M;Young adult;Y;Afternoon;Small
+1972;Unprovoked;SOUTH AFRICA;Swimming;F;Young adult;N;Evening;Small
+2007;Unprovoked;USA;Swimming;F;Young adult;N;Midday;Small
+2005;Unprovoked;USA;Surfing;M;Young adult;N;Midday;Big
+1963;Unprovoked;SOLOMON ISLANDS;Fishing;M;Young adult;Y;Midday;Big
+1997;Unprovoked;AUSTRALIA;Diving;M;Young adult;N;Midday;Medium
+1987;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Midday;Medium
+1999;Unprovoked;SOUTH AFRICA;Fishing;M;Young adult;N;Midday;Medium
+1906;Unprovoked;SOUTH AFRICA;Swimming;M;Young adult;Y;Midday;Medium
+1963;Provoked;PAPUA NEW GUINEA;Fishing;M;Young adult;N;Morning;Small
+2013;Provoked;SOUTH AFRICA;Fishing;M;Young adult;N;Morning;Small
+2018;Unprovoked;COSTA RICA;Diving;M;Young adult;N;Morning;Medium
+2012;Unprovoked;USA;Diving;M;Young adult;N;Morning;Medium
+2016;Provoked;AUSTRALIA;Fishing;M;Adult;N;Afternoon;Small
+1995;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+2009;Unprovoked;USA;Fishing;M;Adult;N;Afternoon;Medium
+2012;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Afternoon;Medium
+2000;Unprovoked;OKINAWA;Surfing;M;Adult;Y;Afternoon;Medium
+1992;Unprovoked;USA;Fishing;M;Adult;N;Afternoon;Small
+1950;Unprovoked;USA;Surfing;M;Adult;N;Midday;Big
+2007;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Midday;Medium
+1951;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Midday;Medium
+1994;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Midday;Medium
+2009;Unprovoked;USA;Surfing;M;Adult;N;Midday;Small
+1958;Unprovoked;PACIFIC OCEAN;Swimming;M;Adult;N;Morning;Small
+1996;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+1993;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Morning;Big
+2010;Unprovoked;AUSTRALIA;Surfing;M;Adult;Y;Morning;Big
+2009;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Medium
+2016;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Medium
+2009;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2007;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2009;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+1990;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2008;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+1991;Unprovoked;USA;Swimming;M;Adult;N;Morning;Medium
+2002;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2017;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+1960;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Night;Medium
+1963;Unprovoked;AUSTRALIA;Swimming;F;Adult;Y;Afternoon;Medium
+2005;Provoked;SOUTH AFRICA;Fishing;M;Adult;N;Afternoon;Medium
+1937;Unprovoked;AUSTRALIA;Swimming;M;Adult;Y;Afternoon;Big
+1972;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Medium
+1995;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Medium
+1966;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Afternoon;Medium
+2007;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+2011;Unprovoked;FRENCH POLYNESIA;Surfing;M;Adult;N;Afternoon;Small
+1987;Unprovoked;USA;Surfing;F;Adult;N;Evening;Small
+1983;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;N;Midday;Big
+2011;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Midday;Medium
+2008;Unprovoked;USA;Swimming;M;Adult;N;Midday;Small
+2017;Unprovoked;BAHAMAS;Diving;F;Adult;N;Morning;Medium
+2018;Provoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Small
+1991;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+1991;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Big
+1967;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;N;Morning;Medium
+2005;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+2012;Unprovoked;MEXICO;Swimming;M;Adult;Y;Morning;Medium
+1962;Unprovoked;MEXICO;Swimming;M;Adult;Y;Morning;Medium
+1981;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Small
+2005;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Small
+1986;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Small
+2012;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+1998;Unprovoked;USA;Swimming;M;Adult;N;Morning;Small
+2008;Unprovoked;NEW CALEDONIA;Swimming;M;Adult;N;Morning;Small
+2018;Unprovoked;MALDIVES;Fishing;M;Adult;N;Night;Medium
+2012;Unprovoked;USA;Swimming;F;Adult;N;Afternoon;Big
+2006;Unprovoked;USA;Diving;F;Adult;N;Afternoon;Medium
+1966;Provoked;SOUTH AFRICA;Fishing;M;Adult;N;Afternoon;Medium
+1959;Unprovoked;USA;Diving;M;Adult;Y;Afternoon;Big
+1998;Unprovoked;SOUTH AFRICA;Diving;M;Adult;N;Afternoon;Medium
+1968;Unprovoked;USA;Fishing;M;Adult;N;Afternoon;Medium
+1974;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Afternoon;Medium
+1961;Unprovoked;NORTH PACIFIC OCEAN;Diving;M;Adult;N;Afternoon;Small
+2006;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+2005;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Small
+1994;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Afternoon;Small
+2009;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Evening;Medium
+2003;Unprovoked;USA;Surfing;M;Adult;N;Evening;Medium
+1985;Unprovoked;AUSTRALIA;Diving;F;Adult;Y;Midday;Big
+1984;Provoked;SOUTH AFRICA;Diving;M;Adult;N;Morning;Small
+1988;Provoked;SOUTH AFRICA;Fishing;M;Adult;N;Morning;Small
+1960;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Medium
+2018;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+2012;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Morning;Medium
+1997;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+1975;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Small
+1937;Unprovoked;AUSTRALIA;Swimming;M;Adult;Y;Night;Medium
+2015;Unprovoked;BAHAMAS;Diving;F;Adult;N;Afternoon;Big
+1993;Unprovoked;USA;Navigating;F;Adult;N;Afternoon;Big
+2013;Unprovoked;MEXICO;Swimming;F;Adult;N;Afternoon;Medium
+2008;Provoked;AUSTRALIA;Diving;M;Adult;N;Afternoon;Medium
+1975;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+1966;Provoked;USA;Fishing;M;Adult;N;Evening;Small
+2004;Unprovoked;USA;Fishing;M;Adult;N;Midday;Medium
+2012;Provoked;AUSTRALIA;Diving;F;Adult;N;Morning;Small
+1993;Unprovoked;AUSTRALIA;Diving;F;Adult;Y;Morning;Big
+1994;Unprovoked;USA;Surfing;F;Adult;N;Morning;Medium
+2014;Unprovoked;USA;Surfing;F;Adult;N;Morning;Medium
+2002;Unprovoked;USA;Swimming;F;Adult;N;Morning;Medium
+2003;Provoked;USA;Surfing;M;Adult;N;Morning;Small
+1971;Unprovoked;CROATIA;Swimming;M;Adult;Y;Morning;Big
+2012;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Medium
+1985;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;N;Morning;Medium
+1989;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+1997;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+1960;Unprovoked;BERMUDA;Navigating;M;Adult;N;Morning;Small
+2004;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Small
+2002;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2002;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+2010;Unprovoked;REUNION;Surfing;M;Adult;N;Morning;Small
+2017;Provoked;USA;Fishing;M;Adult;N;Night;Small
+2016;Provoked;AUSTRALIA;Fishing;M;Adult;N;Night;Small
+1998;Unprovoked;MOZAMBIQUE;Swimming;F;Adult;Y;Afternoon;Medium
+2003;Unprovoked;USA;Surfing;F;Adult;N;Afternoon;Small
+2006;Provoked;USA;Fishing;M;Adult;N;Afternoon;Small
+1999;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Medium
+1993;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+1966;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+2018;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Afternoon;Medium
+2006;Unprovoked;BRAZIL;Swimming;M;Adult;N;Afternoon;Medium
+2002;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+1968;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Afternoon;Small
+1962;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Afternoon;Small
+2002;Provoked;AUSTRALIA;Navigating;M;Adult;N;Evening;Medium
+1999;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Evening;Medium
+1992;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Midday;Medium
+2002;Unprovoked;USA;Diving;M;Adult;N;Midday;Small
+1963;Unprovoked;PALAU;Fishing;M;Adult;N;Morning;Medium
+2002;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2010;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2017;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+1995;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2014;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2000;Unprovoked;NEW CALEDONIA;Fishing;M;Adult;Y;Morning;Medium
+1964;Unprovoked;FIJI;Fishing;M;Adult;Y;Morning;Medium
+2013;Unprovoked;AUSTRALIA;Surfing;M;Adult;Y;Morning;Medium
+1997;Unprovoked;USA;Fishing;M;Adult;N;Morning;Small
+1960;Unprovoked;BERMUDA;Navigating;M;Adult;N;Morning;Small
+1868;Unprovoked;INDIA;Surfing;M;Adult;Y;Morning;Small
+1991;Provoked;AUSTRALIA;Fishing;M;Adult;N;Afternoon;Medium
+1967;Provoked;AUSTRALIA;Fishing;M;Adult;N;Afternoon;Small
+2002;Provoked;USA;Swimming;M;Adult;N;Afternoon;Small
+2003;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2002;Unprovoked;BRAZIL;Swimming;M;Adult;Y;Afternoon;Medium
+1949;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Afternoon;Small
+1992;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;N;Afternoon;Small
+2005;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+2016;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+1958;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Midday;Small
+1959;Unprovoked;FIJI;Fishing;M;Adult;N;Midday;Small
+1992;Unprovoked;USA;Surfing;F;Adult;N;Morning;Medium
+2011;Provoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Medium
+1982;Unprovoked;USA;Diving;M;Adult;N;Morning;Big
+1996;Unprovoked;USA;Diving;M;Adult;N;Morning;Big
+1988;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;N;Morning;Big
+2005;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+1993;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;N;Morning;Medium
+2013;Unprovoked;REUNION;Surfing;M;Adult;Y;Morning;Medium
+1973;Unprovoked;MEXICO;Diving;M;Adult;Y;Afternoon;Big
+1975;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Afternoon;Big
+2010;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;Y;Afternoon;Big
+1945;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Afternoon;Medium
+1988;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+2000;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+1999;Unprovoked;USA;Navigating;M;Adult;N;Evening;Big
+2003;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Evening;Small
+2015;Unprovoked;AUSTRALIA;Surfing;F;Adult;N;Morning;Big
+2010;Unprovoked;USA;Surfing;F;Adult;N;Morning;Small
+2015;Unprovoked;THAILAND;Swimming;F;Adult;N;Morning;Small
+2013;Unprovoked;NEW CALEDONIA;Diving;M;Adult;N;Morning;Medium
+2007;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+2017;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2008;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Morning;Medium
+2005;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+1961;Unprovoked;MOZAMBIQUE;Swimming;M;Adult;N;Morning;Small
+2008;Unprovoked;USA;Swimming;M;Adult;N;Morning;Small
+2007;Unprovoked;AUSTRALIA;Swimming;F;Adult;N;Afternoon;Medium
+2004;Unprovoked;USA;Surfing;F;Adult;N;Afternoon;Big
+2007;Provoked;ENGLAND;Fishing;M;Adult;N;Afternoon;Small
+1961;Unprovoked;USA;Fishing;M;Adult;N;Afternoon;Medium
+1982;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Afternoon;Medium
+1988;Unprovoked;USA;Diving;M;Adult;Y;Afternoon;Medium
+1964;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Small
+2008;Unprovoked;USA;Swimming;F;Adult;N;Evening;Medium
+2011;Unprovoked;MEXICO;Swimming;F;Adult;N;Midday;Small
+1939;Provoked;BAHAMAS;Diving;M;Adult;N;Midday;Medium
+1989;Unprovoked;USA;Diving;M;Adult;N;Midday;Big
+2004;Unprovoked;AUSTRALIA;Fishing;M;Adult;Y;Midday;Medium
+1991;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+1937;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Medium
+2000;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Medium
+2015;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+1995;Unprovoked;USA;Swimming;M;Adult;N;Morning;Medium
+1961;Unprovoked;MOZAMBIQUE;Swimming;M;Adult;Y;Morning;Small
+1935;Unprovoked;AUSTRALIA;Navigating;M;Adult;Y;Night;Medium
+1983;Unprovoked;USA;Surfing;F;Adult;N;Afternoon;Small
+2016;Provoked;NEW ZEALAND;Fishing;M;Adult;N;Afternoon;Small
+1993;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+1997;Unprovoked;SOUTH AFRICA;Fishing;M;Adult;Y;Afternoon;Big
+2003;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Medium
+2000;Unprovoked;USA;Fishing;M;Adult;N;Afternoon;Medium
+2012;Unprovoked;REUNION;Surfing;M;Adult;N;Afternoon;Medium
+2014;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Small
+1929;Unprovoked;AUSTRALIA;Swimming;M;Adult;Y;Afternoon;Small
+2005;Provoked;NEW ZEALAND;Fishing;M;Adult;N;Midday;Big
+2009;Provoked;UNITED KINGDOM;Fishing;M;Adult;N;Midday;Small
+1962;Provoked;USA;Diving;M;Adult;N;Morning;Small
+2012;Unprovoked;USA;Surfing;M;Adult;Y;Morning;Medium
+1960;Unprovoked;USA;Diving;M;Adult;N;Morning;Small
+2002;Unprovoked;USA;Diving;M;Adult;N;Morning;Small
+1999;Unprovoked;BRAZIL;Fishing;M;Adult;N;Morning;Small
+1999;Unprovoked;BRAZIL;Fishing;M;Adult;N;Morning;Small
+1995;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2014;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+1991;Unprovoked;ITALY;Navigating;F;Adult;N;Afternoon;Medium
+2014;Unprovoked;USA;Swimming;F;Adult;N;Afternoon;Small
+2009;Provoked;SOUTH AFRICA;Fishing;M;Adult;N;Afternoon;Small
+1992;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Medium
+2004;Unprovoked;CUBA;Diving;M;Adult;N;Afternoon;Medium
+1986;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2008;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2001;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Medium
+2005;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Medium
+1962;Unprovoked;USA;Fishing;M;Adult;Y;Afternoon;Medium
+2013;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Small
+2008;Unprovoked;NEW CALEDONIA;Fishing;M;Adult;N;Afternoon;Small
+2017;Unprovoked;USA;Diving;F;Adult;N;Midday;Medium
+2007;Provoked;USA;Fishing;F;Adult;N;Morning;Medium
+2008;Unprovoked;USA;Navigating;F;Adult;N;Morning;Medium
+2017;Unprovoked;USA;Navigating;M;Adult;N;Morning;Medium
+1987;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+1992;Unprovoked;USA;Diving;M;Adult;N;Morning;Medium
+2001;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2005;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2006;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2016;Unprovoked;SPAIN;Swimming;M;Adult;N;Morning;Medium
+2004;Unprovoked;VENEZUELA;Fishing;M;Adult;N;Morning;Small
+1998;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2008;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2009;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+2000;Unprovoked;USA;Swimming;M;Adult;N;Morning;Small
+1905;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Morning;Small
+1961;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Night;Small
+1974;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+1992;Unprovoked;JAPAN;Diving;M;Adult;Y;Afternoon;Big
+2006;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2011;Unprovoked;NEW ZEALAND;Surfing;M;Adult;N;Afternoon;Medium
+1997;Unprovoked;AUSTRALIA;Surfing;M;Adult;Y;Afternoon;Medium
+2013;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Small
+2002;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Small
+1960;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Afternoon;Small
+2003;Unprovoked;USA;Fishing;F;Adult;N;Midday;Small
+1960;Provoked;USA;Fishing;M;Adult;N;Midday;Medium
+1967;Unprovoked;BAHAMAS;Diving;M;Adult;N;Midday;Small
+2002;Unprovoked;TURKS & CAICOS;Diving;F;Adult;N;Morning;Medium
+1991;Unprovoked;USA;Diving;F;Adult;Y;Morning;Medium
+1999;Unprovoked;MAURITIUS;Swimming;F;Adult;N;Morning;Small
+2007;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Medium
+2009;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;Y;Morning;Medium
+2002;Provoked;USA;Fishing;M;Adult;Y;Night;Medium
+1963;Unprovoked;GREECE;Swimming;F;Adult;Y;Afternoon;Medium
+1999;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Afternoon;Medium
+2015;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Afternoon;Medium
+2016;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Small
+1992;Unprovoked;USA;Surfing;F;Adult;N;Midday;Small
+2014;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Midday;Medium
+1960;Unprovoked;USA;Swimming;M;Adult;N;Midday;Small
+2001;Unprovoked;USA;Diving;M;Adult;Y;Midday;Small
+2007;Unprovoked;AUSTRALIA;Surfing;F;Adult;N;Morning;Small
+1997;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Big
+1994;Unprovoked;USA;Diving;M;Adult;Y;Morning;Big
+2008;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Morning;Small
+1958;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Morning;Small
+2007;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+2012;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+2009;Provoked;USA;Swimming;F;Adult;N;Afternoon;Small
+1941;Provoked;USA;Fishing;M;Adult;N;Afternoon;Medium
+2008;Provoked;AUSTRALIA;Swimming;M;Adult;N;Afternoon;Medium
+2013;Provoked;USA;Surfing;M;Adult;N;Afternoon;Small
+1994;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Big
+2001;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Medium
+1990;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2013;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+1999;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+2008;Unprovoked;CROATIA;Fishing;M;Adult;N;Midday;Big
+2011;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Midday;Big
+2014;Unprovoked;USA;Fishing;M;Adult;N;Midday;Medium
+1966;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Midday;Small
+2014;Provoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Small
+1970;Unprovoked;MICRONESIA;Diving;M;Adult;N;Morning;Medium
+2002;Unprovoked;BAHAMAS;Surfing;M;Adult;N;Morning;Medium
+2006;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+1999;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2012;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+2015;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2000;Unprovoked;USA;Surfing;F;Adult;N;Afternoon;Medium
+1990;Provoked;USA;Navigating;M;Adult;N;Afternoon;Medium
+1975;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+2001;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Medium
+2012;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Medium
+2014;Unprovoked;USA;Surfing;M;Adult;N;Midday;Small
+2003;Unprovoked;NEW ZEALAND;Diving;M;Adult;N;Morning;Medium
+2005;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Morning;Medium
+2004;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2005;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2000;Unprovoked;USA;Swimming;M;Adult;N;Morning;Medium
+2015;Unprovoked;USA;Swimming;M;Adult;N;Morning;Small
+2005;Provoked;USA;Diving;M;Adult;N;Afternoon;Medium
+2013;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Medium
+2001;Unprovoked;USA;Surfing;M;Adult;N;Evening;Small
+1995;Unprovoked;USA;Swimming;M;Adult;N;Evening;Small
+1974;Unprovoked;USA;Diving;M;Adult;N;Morning;Big
+1996;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2004;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2013;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2006;Provoked;AUSTRALIA;Diving;M;Adult;N;Afternoon;Small
+1985;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Medium
+2013;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2008;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Afternoon;Medium
+2017;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Small
+2009;Provoked;TAIWAN;Fishing;M;Adult;N;Evening;Medium
+1986;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Evening;Small
+1992;Unprovoked;USA;Navigating;M;Adult;N;Midday;Big
+2013;Unprovoked;NEW ZEALAND;Swimming;M;Adult;Y;Midday;Medium
+2004;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Big
+2012;Unprovoked;MEXICO;Diving;M;Adult;N;Morning;Medium
+2010;Unprovoked;EGYPT;Diving;M;Adult;N;Morning;Medium
+2001;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Morning;Medium
+2010;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Small
+1997;Unprovoked;FIJI;Diving;F;Adult;N;Afternoon;Medium
+2002;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Afternoon;Big
+2000;Unprovoked;FIJI;Swimming;M;Adult;Y;Afternoon;Big
+2015;Unprovoked;REUNION;Surfing;M;Adult;N;Afternoon;Medium
+2002;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+2004;Unprovoked;USA;Swimming;M;Adult;N;Evening;Small
+2000;Unprovoked;USA;Swimming;M;Adult;N;Midday;Small
+1996;Unprovoked;AUSTRALIA;Swimming;F;Adult;N;Morning;Medium
+1995;Unprovoked;JAPAN;Diving;M;Adult;Y;Morning;Big
+1989;Unprovoked;ITALY;Diving;M;Adult;Y;Morning;Big
+2005;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+1983;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Morning;Small
+2010;Unprovoked;EGYPT;Diving;F;Adult;N;Afternoon;Medium
+1948;Provoked;USA;Diving;M;Adult;N;Afternoon;Small
+1974;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+2012;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Big
+1960;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Medium
+2010;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2011;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Medium
+1942;Unprovoked;BAHAMAS;Swimming;M;Adult;N;Evening;Small
+2007;Unprovoked;BAHAMAS;Fishing;F;Adult;N;Midday;Medium
+2007;Unprovoked;BAHAMAS;Fishing;F;Adult;N;Morning;Small
+2013;Unprovoked;FRENCH POLYNESIA;Diving;M;Adult;N;Morning;Medium
+2000;Unprovoked;SOUTH AFRICA;Diving;M;Adult;N;Morning;Medium
+2002;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2016;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2017;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2017;Unprovoked;INDONESIA;Surfing;M;Adult;N;Morning;Small
+2016;Unprovoked;USA;Swimming;M;Adult;N;Morning;Small
+1969;Provoked;AUSTRALIA;Fishing;M;Adult;N;Afternoon;Medium
+2011;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Afternoon;Big
+2011;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+2009;Unprovoked;NEW ZEALAND;Swimming;M;Adult;N;Afternoon;Small
+1962;Provoked;PAPUA NEW GUINEA;Fishing;M;Adult;N;Midday;Medium
+1990;Unprovoked;USA;Diving;M;Adult;N;Midday;Big
+2010;Provoked;USA;Fishing;M;Adult;N;Morning;Small
+2000;Unprovoked;AUSTRALIA;Swimming;M;Adult;Y;Morning;Big
+2009;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2008;Unprovoked;MEXICO;Surfing;M;Adult;N;Morning;Medium
+2008;Unprovoked;BAHAMAS;Diving;M;Adult;Y;Morning;Medium
+2006;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2011;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;Y;Morning;Small
+2015;Unprovoked;USA;Surfing;F;Adult;N;Afternoon;Medium
+2004;Unprovoked;USA;Diving;M;Adult;Y;Afternoon;Big
+2012;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Medium
+2011;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Afternoon;Small
+1990;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+2013;Provoked;FRANCE;Fishing;M;Adult;N;Evening;Small
+2003;Unprovoked;USA;Swimming;F;Adult;Y;Morning;Big
+2009;Unprovoked;EGYPT;Diving;F;Adult;Y;Morning;Medium
+1998;Unprovoked;USA;Surfing;M;Adult;N;Morning;Big
+2014;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2017;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2014;Unprovoked;AUSTRALIA;Swimming;M;Adult;Y;Morning;Medium
+2003;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+1997;Unprovoked;USA;Surfing;M;Adult;N;Night;Small
+1999;Unprovoked;USA;Swimming;F;Adult;N;Afternoon;Medium
+2012;Unprovoked;USA;Swimming;F;Adult;N;Afternoon;Medium
+2016;Unprovoked;USA;Swimming;F;Adult;N;Afternoon;Medium
+1989;Provoked;USA;Fishing;M;Adult;N;Afternoon;Medium
+2013;Unprovoked;AUSTRALIA;Fishing;M;Adult;N;Afternoon;Medium
+2014;Unprovoked;REUNION;Surfing;M;Adult;N;Afternoon;Medium
+2003;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+1993;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Small
+2008;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Midday;Medium
+2004;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2011;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+2008;Unprovoked;AUSTRALIA;Diving;M;Adult;Y;Morning;Small
+2005;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Afternoon;Big
+2014;Provoked;USA;Fishing;M;Adult;N;Evening;Small
+2008;Unprovoked;USA;Surfing;M;Adult;N;Evening;Small
+2007;Unprovoked;AUSTRALIA;Surfing;F;Adult;N;Morning;Medium
+2001;Provoked;USA;Fishing;M;Adult;N;Morning;Medium
+2012;Unprovoked;USA;Navigating;M;Adult;N;Morning;Big
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Big
+2015;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Big
+2006;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Medium
+2007;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2009;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Morning;Medium
+1961;Unprovoked;USA;Swimming;M;Adult;N;Morning;Medium
+2000;Unprovoked;AUSTRALIA;Swimming;M;Adult;N;Morning;Medium
+2004;Unprovoked;SOUTH AFRICA;Swimming;M;Adult;N;Morning;Medium
+1999;Unprovoked;REUNION;Swimming;M;Adult;Y;Morning;Medium
+2008;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+1996;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+2014;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Small
+1981;Unprovoked;BAHAMAS;Diving;M;Adult;N;Midday;Small
+2013;Unprovoked;FRENCH POLYNESIA;Surfing;M;Adult;N;Midday;Small
+1969;Unprovoked;USA;Diving;M;Adult;N;Morning;Medium
+2000;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+1941;Provoked;USA;Fishing;M;Adult;N;Night;Small
+2017;Unprovoked;USA;Surfing;F;Adult;N;Afternoon;Medium
+1962;Unprovoked;NEW ZEALAND;Fishing;F;Adult;N;Afternoon;Small
+2007;Unprovoked;USA;Surfing;M;Adult;N;Afternoon;Small
+2017;Unprovoked;USA;Surfing;M;Adult;N;Evening;Medium
+2003;Unprovoked;USA;Swimming;M;Adult;N;Midday;Small
+2015;Unprovoked;USA;Surfing;F;Adult;N;Morning;Medium
+2010;Unprovoked;EGYPT;Diving;M;Adult;N;Morning;Medium
+2009;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+1962;Provoked;USA;Diving;M;Adult;N;Afternoon;Small
+2002;Provoked;USA;Fishing;M;Adult;N;Afternoon;Small
+1993;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Big
+2011;Unprovoked;BAHAMAS;Diving;M;Adult;N;Afternoon;Medium
+1925;Unprovoked;AUSTRALIA;Swimming;M;Adult;Y;Afternoon;Medium
+2002;Unprovoked;USA;Fishing;M;Adult;N;Afternoon;Small
+2006;Unprovoked;USA;Swimming;M;Adult;N;Afternoon;Small
+2018;Unprovoked;AUSTRALIA;Swimming;F;Adult;N;Evening;Small
+2000;Unprovoked;USA;Fishing;F;Adult;N;Midday;Small
+2017;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Midday;Medium
+2013;Unprovoked;AUSTRALIA;Diving;M;Adult;N;Morning;Big
+2009;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2016;Unprovoked;SOUTH AFRICA;Surfing;M;Adult;N;Morning;Medium
+2000;Unprovoked;USA;Swimming;M;Adult;N;Morning;Medium
+2015;Unprovoked;ECUADOR;Diving;M;Adult;N;Morning;Small
+2012;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2005;Unprovoked;ST. MAARTIN;Surfing;M;Adult;N;Morning;Small
+2012;Unprovoked;USA;Swimming;F;Adult;N;Afternoon;Small
+2012;Unprovoked;USA;Diving;M;Adult;N;Afternoon;Small
+2000;Unprovoked;USA;Swimming;F;Adult;N;Morning;Medium
+2009;Unprovoked;USA;Fishing;M;Adult;N;Morning;Medium
+2005;Unprovoked;GRAND CAYMAN;Diving;F;Adult;N;Afternoon;Medium
+1961;Provoked;USA;Fishing;M;Adult;N;Afternoon;Small
+2006;Unprovoked;USA;Navigating;M;Adult;N;Afternoon;Big
+1957;Unprovoked;USA;Swimming;M;Adult;Y;Afternoon;Big
+1962;Unprovoked;MARSHALL ISLANDS;Fishing;M;Adult;N;Midday;Small
+2015;Provoked;USA;Fishing;M;Adult;N;Morning;Medium
+2004;Unprovoked;USA;Surfing;M;Adult;Y;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Navigating;M;Adult;N;Morning;Small
+2010;Unprovoked;VIETNAM;Swimming;F;Adult;N;Afternoon;Small
+2003;Unprovoked;BAHAMAS;Fishing;M;Adult;N;Afternoon;Medium
+2009;Provoked;USA;Diving;M;Adult;N;Midday;Medium
+2016;Unprovoked;USA;Swimming;F;Adult;N;Morning;Medium
+2015;Unprovoked;USA;Surfing;M;Adult;N;Morning;Medium
+2013;Unprovoked;USA;Surfing;M;Adult;N;Morning;Small
+2007;Unprovoked;USA;Swimming;M;Adult;N;Morning;Small
+2007;Unprovoked;AUSTRALIA;Swimming;F;Adult;N;Afternoon;Medium
+1958;Provoked;USA;Swimming;M;Adult;N;Afternoon;Medium
+2004;Unprovoked;AUSTRALIA;Surfing;M;Adult;N;Afternoon;Medium
+2016;Provoked;USA;Fishing;M;Adult;N;Morning;Medium
+2016;Unprovoked;COLUMBIA;Diving;M;Adult;N;Morning;Small
+2010;Unprovoked;AUSTRALIA;Diving;F;Senior;N;Afternoon;Medium
+2013;Unprovoked;AUSTRALIA;Diving;F;Senior;N;Afternoon;Small
+2010;Unprovoked;VIETNAM;Swimming;F;Senior;N;Afternoon;Small
+2009;Unprovoked;USA;Swimming;M;Senior;Y;Evening;Small
+2012;Unprovoked;USA;Surfing;M;Senior;N;Midday;Medium
+2016;Unprovoked;AUSTRALIA;Diving;F;Senior;Y;Morning;Medium
+2002;Unprovoked;USA;Swimming;F;Senior;N;Morning;Small
+1971;Unprovoked;SOUTH AFRICA;Swimming;M;Senior;Y;Morning;Big
+2018;Unprovoked;AUSTRALIA;Surfing;M;Senior;N;Morning;Medium
+2003;Unprovoked;USA;Swimming;M;Senior;N;Morning;Medium
+2016;Unprovoked;USA;Surfing;M;Senior;N;Afternoon;Medium
+2012;Unprovoked;USA;Surfing;M;Senior;N;Afternoon;Small
+2014;Unprovoked;USA;Swimming;M;Senior;N;Afternoon;Small
+2009;Unprovoked;USA;Swimming;M;Senior;N;Evening;Medium
+2012;Unprovoked;USA;Diving;M;Senior;N;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Surfing;M;Senior;N;Morning;Medium
+2012;Unprovoked;AUSTRALIA;Surfing;M;Senior;N;Morning;Medium
+1999;Unprovoked;USA;Surfing;M;Senior;N;Morning;Small
+1996;Unprovoked;USA;Surfing;F;Senior;N;Afternoon;Small
+2004;Provoked;BAHAMAS;Diving;M;Senior;N;Afternoon;Small
+2015;Unprovoked;USA;Swimming;M;Senior;N;Afternoon;Small
+2016;Unprovoked;USA;Swimming;M;Senior;N;Afternoon;Small
+2007;Unprovoked;USA;Diving;F;Senior;N;Morning;Medium
+2014;Unprovoked;AUSTRALIA;Swimming;F;Senior;Y;Morning;Medium
+2013;Unprovoked;BAHAMAS;Fishing;M;Senior;N;Afternoon;Small
+1991;Unprovoked;HONG KONG;Swimming;F;Senior;Y;Morning;Medium
+2016;Unprovoked;AUSTRALIA;Surfing;M;Senior;N;Morning;Big
+2014;Unprovoked;SOUTH AFRICA;Swimming;M;Senior;Y;Afternoon;Medium
+2008;Unprovoked;USA;Swimming;M;Senior;Y;Morning;Medium
+1993;Unprovoked;USA;Swimming;F;Senior;N;Evening;Small
+2005;Unprovoked;USA;Surfing;F;Senior;N;Afternoon;Small
+2010;Unprovoked;USA;Surfing;M;Senior;N;Afternoon;Medium
+2015;Unprovoked;USA;Swimming;M;Senior;N;Midday;Small
+2013;Unprovoked;JAMAICA;Fishing;M;Senior;Y;Morning;Medium
+2007;Unprovoked;USA;Swimming;M;Senior;N;Morning;Small
+1993;Provoked;AUSTRALIA;Fishing;M;Senior;N;Afternoon;Small
+2018;Unprovoked;AUSTRALIA;Swimming;M;Senior;N;Afternoon;Medium
+2000;Unprovoked;USA;Swimming;M;Senior;Y;Afternoon;Medium
+2016;Unprovoked;NEW CALEDONIA;Swimming;F;Senior;Y;Morning;Medium
+2017;Unprovoked;USA;Surfing;M;Senior;N;Morning;Medium
+1993;Unprovoked;SPAIN;Swimming;M;Senior;N;Morning;Small
+2010;Unprovoked;EGYPT;Diving;F;Senior;N;Afternoon;Medium
+2015;Unprovoked;USA;Fishing;M;Senior;N;Afternoon;Medium
+2010;Unprovoked;EGYPT;Diving;F;Senior;Y;Midday;Medium
+2015;Unprovoked;USA;Surfing;M;Senior;N;Morning;Medium
+2015;Unprovoked;AUSTRALIA;Surfing;M;Senior;N;Morning;Medium
+2000;Unprovoked;USA;Swimming;M;Senior;N;Midday;Small
+2016;Provoked;AUSTRALIA;Fishing;M;Senior;N;Morning;Small
+2013;Unprovoked;SOUTH AFRICA;Swimming;M;Senior;Y;Morning;Big
+2004;Unprovoked;SOUTH AFRICA;Swimming;F;Senior;Y;Morning;Big
+2003;Unprovoked;AUSTRALIA;Swimming;M;Senior;Y;Morning;Medium
