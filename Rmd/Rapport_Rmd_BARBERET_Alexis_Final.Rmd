@@ -1,0 +1,218 @@
+---
+title: "**Rapport_Rmd : L'impact de l'IA sur le monde du travail**"
+author: "BARBERET Alexis"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: '3'
+  html_document:
+    code_folding: hide
+    fig_caption: true
+    number_sections: true
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+bibliography: biblio/Biblio_Rapport_Rmd.bib
+csl: biblio/isara-iso-690.csl
+header-includes:
+  - \usepackage{float}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library (FactoMineR)
+library(ggplot2)
+library(dplyr)
+```
+
+```{r logo, echo=FALSE, out.width = '40%', fig.align = "center", fig.cap=" Photo illustrative libre de droit"}
+knitr::include_graphics("image_IA_Rapport.jpg")
+```
+
+# Introduction
+
+L’intelligence artificielle (IA) connaît un développement rapide et s’intègre progressivement dans de nombreux secteurs d’activité partout dans le monde, modifiant les modes de production et d’organisation du travail. Cette évolution suscite des interrogations majeures quant à son impact sur *l’emploi*, notamment en raison de l’automatisation croissante de certaines tâches. Si certains craignent une destruction massive d’emplois, plusieurs analyses soulignent plutôt une transformation des métiers et des compétences (citation).
+
+Dans ce contexte, ce rapport a pour objectif d’analyser l’impact de l’intelligence artificielle sur l’emploi à partir de données statistiques et d'analyses issues d’organismes institutionnels. Il vise à mettre en évidence le niveau d’adoption de l’IA par les entreprises ainsi que les types d’emplois les plus exposés à l’automatisation, afin de mieux comprendre les enjeux du numérique liés au marché du travail.
+
+## Objectifs du rapport 
+
+Ce rapport a pour objectifs de :
+
+- **Analyser le développement de l’intelligence artificielle** : Présenter les principales formes de l’IA et comprendre les raisons de son intégration croissante dans le monde professionnel ;
+- **Identifier les secteurs exposés à l’automatisation** : Mettre en évidence les types d’emplois les plus concernés par l’automatisation des tâches liées à l’IA. ;
+- **Etudier l'impact de l'IA sur les compétences** : Comprendre comment l’IA modifie les compétences attendues des travailleurs et les besoins en formation et en adaptation professionnelle.  ;
+- **Discuter des enjeux économiques et sociaux** : les principaux aujets soulevés par l'IA en matière d'organisation; d'inégalités professionelles et d'avenir de l'emploi.
+
+# Diffusion et adoption de L'IA dans le monde du travail. 
+
+L’adoption de l’intelligence artificielle par les entreprises constitue un indicateur central pour évaluer son impact potentiel sur l’emploi. En Europe, l’utilisation de l’IA reste encore minoritaire, mais elle progresse rapidement. Selon Eurostat et l’INSEE, environ **8 % des entreprises européennes utilisaient au moins une technologie d’IA en 2023**, avec de fortes disparités selon la taille des entreprises et les pays. [@clement_lefebvre_technologies_2025].
+
+Cette diffusion progressive de l’IA laisse présager une transformation structurelle de l’organisation du travail et des compétences requises, plutôt qu’un bouleversement immédiat du volume global de l’emploi [@lane_impact_2023].
+
+## Contexte et usages actuels de l'IA
+
+L’intelligence artificielle (IA) regroupe des technologies permettant aux systèmes informatiques de réaliser des tâches habituellement associées à l’intelligence humaine, comme l’analyse de données, la reconnaissance de motifs ou l’aide à la décision. Dans le monde du travail, l’IA est principalement utilisée pour automatiser certaines tâches, optimiser les processus ou assister les salariés dans leurs activités quotidiennes.
+
+Les analyses de l'OCDE et de l'OIT soulignent que l’IA n’entraîne pas une automatisation complète des emplois, mais concerne surtout des tâches spécifiques. Cette distinction entre emplois et tâches est essentielle pour comprendre que l’IA transforme les métiers existants plutôt qu’elle ne les remplace intégralement [@gmyrek_intelligence_2025; @lane_impact_2021]. 
+
+## Adoption de l'IA par les entreprises
+
+L’adoption de l’intelligence artificielle par les entreprises reste hétérogène selon les secteurs et la taille des entreprises. En Europe,près de **25 % des grandes entreprises déclarent utiliser des technologies d’IA**, contre moins de **5 % des petites entreprises** [@clement_lefebvre_technologies_2025]. 
+
+Les secteurs de l’information-communication, de la finance et des services aux entreprises figurent parmi les plus avancés dans l'intégration de l'IA. Cette hétérogénéité contribue à une diffusion inégale des gains de productivité et des opportunités liées à l’IA sur le marché du travail [@lane_impact_2023] 
+
+```{r adoption, echo=TRUE, eval=TRUE, message=FALSE, out.width= '85%',  fig.align='center', fig.cap= "Part entreprises utilisant des technologies IA en Europe", fig.pos="H" }
+
+library(tidyverse)
+
+ai_country <- read_csv2("Données_par_pays.csv", show_col_types = FALSE)
+
+ai_long <- ai_country %>%
+  pivot_longer(
+    cols = c(`2024`, `2025`),              
+    names_to = "Année",
+    values_to = "Value") %>%
+  filter(!is.na(Value))
+
+order_country <- ai_long %>%
+  filter(Année == "2025") %>%
+  arrange(desc(Value)) %>%
+  pull(Country)
+
+ai_long$Country <- factor(ai_long$Country, levels = order_country)
+
+ggplot(ai_long,aes(x = Country, y = Value, fill = Année)) +
+  geom_col(position = position_dodge(width = 0.6),width = 0.55) +
+  labs(title = "Enterprises utilisant des technologies IA",
+    subtitle = "Source : Eurostat - Comparaison par années (2024–2025)",
+          x = "",
+          y = "Pourcentage d'entreprises", 
+          fill = "Année" ) +
+  theme_minimal() +
+  theme(legend.position = "bottom",
+    plot.title = element_text(face = "bold"),
+    axis.text.x = element_text(angle = 45,hjust = 1,vjust = 1,size = 8),
+    axis.text.y = element_text(size = 8))
+
+```
+
+Ce graphique met en évidence une hausse globale de l’adoption de l’IA par les entreprises européennes entre 2024 et 2025, ainsi que des disparités importantes entre les pays européens. 
+
+## Des enjeux organisationels
+
+L’intégration de l’IA dans les entreprises s’accompagne de changements organisationnels importants. L’IA permet notamment des gains de productivité et de temps, une meilleure exploitation des données et une automatisation des tâches répétitives [@pricewaterhousecoopers_lia_2025]. Toutefois, ces bénéfices dépendent fortement des investissements en formation et en accompagnement des salariés.
+
+Sans adaptation organisationnelle, l’IA peut renforcer les inégalités professionnelles et accentuer la segmentation du marché du travail. L’OCDE souligne ainsi que les effets positifs de l’IA sont conditionnés à la qualité des politiques de ressources humaines et de formation continue [@lane_impact_2023].
+
+# L'emploi face à l'automatisation par l'IA :
+
+## Emploi et tâches face à l'automatisation 
+
+Les effets de l’IA sur l’emploi doivent être analysés à partir de la distinction entre emplois et tâches. Les travaux de l’OCDE estiment qu’environ **27 % des emplois présentent un risque élevé d’automatisation de certaines tâches**, tandis que seuls **moins de 10 % des emplois** seraient entièrement automatisables [@lane_impact_2021]. 
+
+Les tâches routinières et répétitives, présentes dans les services administratifs, la finance ou l'industrie, sont particulièrement exposées(voir Figure 3). À l’inverse, les métiers reposant sur des compétences sociales, créatives ou relationnelles restent moins vulnérables. Ces différences expliquent l’hétérogénéité des effets de l’IA selon les secteurs et les niveaux de qualification[@acemoglu_automation_2019; @rio-chanona_ai_2025]. 
+
+Certaines projections soulignent néanmoins des risques importants pour les travailleurs peu qualifiés, en particulier dans les secteurs fortement standardisés [@down_ai_2025].. Ces analyses soulignent que l’impact de l’IA dépend fortement du type de tâches exercées et du niveau de qualification des travailleurs.
+
+```{r emplois, echo=TRUE, eval=TRUE, out.width = "90%", fig.align = "left",fig.cap=" Secteurs les plus exposés à l'intelligence artificielle"}
+
+library(tidyverse)
+
+ai_sectors <- tibble(
+  Secteur = c("Services administratifs","Finance et assurance","Information & communication",
+              "Industrie manufacturière","Commerce","Transports","Santé","Éducation"),
+  Exposition = c(62, 54, 48, 38, 34, 29, 21, 18))
+
+ggplot(ai_sectors,aes(x = reorder(Secteur, Exposition), 
+                      y = Exposition)) +
+  geom_col(fill = "#1f4db7", width = 0.9) +
+  coord_flip() +
+  labs(title = "Exposition des emplois à l’intelligence artificielle\nselon les secteurs",
+    subtitle = "Source : Estimations issues de l'International Labour Organization (2025)",
+    x = NULL,
+    y = "Part des emplois exposés (%)") +
+  scale_y_continuous(limits = c(0, 70), breaks = seq(0, 70, 10)) +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5,face = "bold"),
+        plot.subtitle = element_text(hjust = 0.5,size = 9))
+
+
+```
+
+## Transformation des compétences et inégalités sociales : 
+
+L’essor de l’IA entraîne une évolution rapide des compétences requises sur le marché du travail. Selon le FMI, près de **40 % des emplois mondiaux seront affectés par l’IA**, notamment par automatisation de certaines tâches[@florence_bridging_2026].
+
+On observe une demande croissante pour des compétences numériques, analytiques et transversales, tandis que certaines compétences routinières deviennent moins importantes. Cette transformation profite davantage aux travailleurs hautement qualifiés, capables de s’adapter aux nouveaux usages de l’IA. À l’inverse, les travailleurs peu qualifiés sont plus exposés aux risques de déclassement ou de précarisation [@gmyrek_intelligence_2025].
+
+# Enjeux et perspectives de l'IA pour l'avenir de l'emploi. 
+
+## L'IA : menace ou opportunité pour l'emploi ?
+
+À l’échelle mondiale, une part significative des emplois devrait être transformée par l’IA dans les prochaines années, avec des effets différenciés selon les secteurs et les niveaux de qualification [@florence_bridging_2026].
+
+Toutefois, la majorité des études convergent vers une vision plus nuancée. L’IA ne conduirait pas nécessairement à une destruction massive de l’emploi, mais plutôt à une transformation profonde des métiers et des compétences  [@gmyrek_intelligence_2025]. Les travaux de l’OCDE montrent ainsi que certains secteurs fortement exposés à l’IA connaissent une stabilité, voire une progression de l’emploi, tandis que d’autres, moins exposés, enregistrent des pertes [@oecd_oecd_2023]
+
+L’impact final dépendrait largement des capacités d’adaptation des travailleurs et des politiques publiques mises en œuvre.
+
+```{r compétences, echo= FALSE, warning = FALSE, fig.align='center', out.width='85%', fig.cap = " Effets attendus de l’intelligence artificielle sur la demande de compétences. Source : OCDE (2023).", fig.pos="H"}
+
+library(tidyverse)
+
+ia_jobs <- tibble(
+  Profession = c("Administratif", "Finance", "Industrie",
+                 "Transports", "Santé", "Éducation"),
+  Exposition = c("Élevée", "Élevée", "Moyenne",
+                 "Moyenne", "Faible", "Faible"),
+  Variation = c(2, 4, -6, -4, 8, 6))
+
+ggplot(ia_jobs,
+       aes(x = Exposition, y = Profession, fill = Variation)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient2(
+    low = "#d73027",
+    mid = "white",
+    high = "#1a9850",
+    midpoint = 0,
+    name = "Variation de l’emploi (%)") +
+  labs(title = "Effet actuel de l'IA sur l'emploi (2016-2022)",
+    subtitle = "Source : OCDE Employment Outlook 2023",
+    x = "Niveau d’exposition à l’IA",
+    y = "Groupe professionnel") +
+  theme_minimal()
+
+```
+
+## Enjeux sociaux et risques d'inégalités
+
+L’essor de l’IA soulève de forts enjeux sociaux, notamment en matière d’inégalités professionnelles. Plusieurs analyses soulignent un risque d’accentuation des écarts de revenus et de conditions de travail entre travailleurs qualifiés et peu qualifié [@acemoglu_automation_2019; @oecd_oecd_2023].
+
+Le World Economic Forum souligne par ailleurs que la transformation du travail liée à l’IA s’accompagne d’une recomposition profonde des tâches, avec une diminution des tâches routinières et une hausse des tâches analytiques et créatives à l’horizon 2030 [@world_economic_forum_future_nodate]
+
+Des acteurs du secteur de l’IA alertent également sur le risque de voir émerger une population durablement cantonnée à des emplois précaires ou faiblement rémunérés si les transformations technologiques ne sont pas accompagnées [@est_anthropic_nodate, discours du CEO]. Ces constats renforcent la nécessité de politiques publiques adaptées. 
+
+
+## Le rôle des politiques publiques et les perspectives d'avenir
+
+Face aux transformations induites par l’intelligence artificielle, les politiques publiques jouent un rôle central. Les institutions internationales insistent sur l’importance d’investir dans la formation continue, la reconversion professionnelle et l’adaptation des systèmes éducatifs afin de limiter les effets négatifs de l’IA sur l’emploi [@lane_impact_2021; @florence_bridging_2026].
+
+À long terme, l’IA pourrait soit accentuer les inégalités existantes, soit constituer un levier d’amélioration des conditions de travail et de création de nouveaux emplois. La trajectoire retenue dépendra largement des choix collectifs en matière de régulation, d’éducation et de protection sociale [@oecd_oecd_2023; @world_economic_forum_future_nodate ].
+
+# Conclusion 
+
+L’intelligence artificielle transforme principalement le contenu du travail plutôt qu’elle ne supprime massivement les emplois. Ses effets varient fortement selon les secteurs, les niveaux de qualification et les contextes organisationnels, avec un risque accru de polarisation du marché du travail. Si l’IA peut générer des gains de productivité et de nouvelles opportunités, ces effets positifs dépendent largement de l’accompagnement des travailleurs et des politiques de formation. L’enjeu central pour les prochaines années sera donc de faire de l’IA un levier de transformation inclusive du travail.
+
+
+# Bibliographie
+
+Liste des publications :
+
+
+
+
+
